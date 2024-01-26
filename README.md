@@ -51,3 +51,5 @@ Description: Represents the average rating given by the customer for purchased i
 
 
  what prompted to study about this customer behaviour analysis was while applying for firstcry.com. I want to do some project in order to understand the basic understading behind the customer behaviours and how they are affected by various parameters.
+
+ ###### The code and dataset has been provided
